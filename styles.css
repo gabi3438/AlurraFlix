@@ -2,3 +2,19 @@ body{
 color:blueviolet;
 background:black;
 }
+header {
+    border-bottom: solid 2px rgb(91, 60, 97);
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(167, 170, 174, 0.596);
+}
+section{
+    background: rgb(97 7 113);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 20px;
+}
